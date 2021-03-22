@@ -1,4 +1,4 @@
-# NRC20-logos (development)
+# NRC20-logos
 Repository to store NRC20 token logos
 * The NRC20 token logos will be used by several clients such as Nordic Energy block explorer when displaying the infomations of NRC20.
 
